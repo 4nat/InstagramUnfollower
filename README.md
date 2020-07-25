@@ -1,4 +1,4 @@
-# InstagramUnfollower 
+# InstagramUnfollower \
 
 <a href="https://google.com">Tıkla INDIR!</a>
 
@@ -9,6 +9,6 @@
 <summary>KULLANIM</summary>
 
 KULLANIM DOSYANIN İÇERİSİNDEKİ BENİOKU.TXT'DE BELİRTİLMİŞTİR.\
-BU PROJE SADECE İNSTAGRAM TR DE ÇALIŞIR.\
+BU PROJE SADECE İNSTAGRAM TR DE ÇALIŞIR.
 
 </details>
